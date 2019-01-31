@@ -1,0 +1,1 @@
+This repo contains small programs written in python. The files starting with `Udacity` were created accorging to the Schools course content.
